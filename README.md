@@ -9,10 +9,8 @@ A real-time weather dashboard with a glassmorphic UI, dynamic weather-based them
 - 🔍 **City search** — look up current weather for any city, with Enter-to-search support
 - 🎛️ **Instrument gauges** — humidity, wind, feels-like, and pressure render as animated dial rings instead of plain numbers
 - 🎨 **Dynamic theming** — the background gradient and accent color shift based on the actual condition returned (clear day/night, clouds, rain, thunderstorm, snow, mist)
-- 💀 **Skeleton loading state** — shows a content-shaped placeholder while data loads
 - ⚠️ **Actionable error messages** — clear title + hint instead of a generic alert
 - 🕓 **Live date/time clock** in the header, updated every 30s
-- ♿ **Accessible** — visible keyboard focus states, `prefers-reduced-motion` support
 - 📱 **Responsive** — adapts down to mobile screens
 
 ## Getting Started
